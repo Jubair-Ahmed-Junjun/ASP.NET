@@ -1,0 +1,10 @@
+C:\Users\jubair ahmed junjun\source\repos\FirstWinFormApp\FirstWinFormApp\bin\Debug\FirstWinFormApp.exe.config
+C:\Users\jubair ahmed junjun\source\repos\FirstWinFormApp\FirstWinFormApp\bin\Debug\FirstWinFormApp.exe
+C:\Users\jubair ahmed junjun\source\repos\FirstWinFormApp\FirstWinFormApp\bin\Debug\FirstWinFormApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\FirstWinFormApp\FirstWinFormApp\obj\Debug\FirstWinFormApp.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\source\repos\FirstWinFormApp\FirstWinFormApp\obj\Debug\FirstWinFormApp.Properties.Resources.resources
+C:\Users\jubair ahmed junjun\source\repos\FirstWinFormApp\FirstWinFormApp\obj\Debug\FirstWinFormApp.csproj.GenerateResource.cache
+C:\Users\jubair ahmed junjun\source\repos\FirstWinFormApp\FirstWinFormApp\obj\Debug\FirstWinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\FirstWinFormApp\FirstWinFormApp\obj\Debug\FirstWinFormApp.exe
+C:\Users\jubair ahmed junjun\source\repos\FirstWinFormApp\FirstWinFormApp\obj\Debug\FirstWinFormApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\FirstWinFormApp\FirstWinFormApp\obj\Debug\FirstWinFormApp.Form1.resources

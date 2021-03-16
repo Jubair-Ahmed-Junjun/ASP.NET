@@ -1,0 +1,10 @@
+C:\Users\jubair ahmed junjun\source\repos\PersonalInfoWinFormApp\PersonalInfoWinFormApp\bin\Debug\PersonalInfoWinFormApp.exe.config
+C:\Users\jubair ahmed junjun\source\repos\PersonalInfoWinFormApp\PersonalInfoWinFormApp\bin\Debug\PersonalInfoWinFormApp.exe
+C:\Users\jubair ahmed junjun\source\repos\PersonalInfoWinFormApp\PersonalInfoWinFormApp\bin\Debug\PersonalInfoWinFormApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\PersonalInfoWinFormApp\PersonalInfoWinFormApp\obj\Debug\PersonalInfoWinFormApp.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\source\repos\PersonalInfoWinFormApp\PersonalInfoWinFormApp\obj\Debug\PersonalInfoWinFormApp.Form1.resources
+C:\Users\jubair ahmed junjun\source\repos\PersonalInfoWinFormApp\PersonalInfoWinFormApp\obj\Debug\PersonalInfoWinFormApp.Properties.Resources.resources
+C:\Users\jubair ahmed junjun\source\repos\PersonalInfoWinFormApp\PersonalInfoWinFormApp\obj\Debug\PersonalInfoWinFormApp.csproj.GenerateResource.cache
+C:\Users\jubair ahmed junjun\source\repos\PersonalInfoWinFormApp\PersonalInfoWinFormApp\obj\Debug\PersonalInfoWinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\PersonalInfoWinFormApp\PersonalInfoWinFormApp\obj\Debug\PersonalInfoWinFormApp.exe
+C:\Users\jubair ahmed junjun\source\repos\PersonalInfoWinFormApp\PersonalInfoWinFormApp\obj\Debug\PersonalInfoWinFormApp.pdb

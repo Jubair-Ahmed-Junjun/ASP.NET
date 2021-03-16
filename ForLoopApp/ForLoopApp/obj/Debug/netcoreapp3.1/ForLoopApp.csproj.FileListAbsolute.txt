@@ -1,0 +1,13 @@
+C:\Users\jubair ahmed junjun\source\repos\ForLoopApp\ForLoopApp\bin\Debug\netcoreapp3.1\ForLoopApp.exe
+C:\Users\jubair ahmed junjun\source\repos\ForLoopApp\ForLoopApp\bin\Debug\netcoreapp3.1\ForLoopApp.deps.json
+C:\Users\jubair ahmed junjun\source\repos\ForLoopApp\ForLoopApp\bin\Debug\netcoreapp3.1\ForLoopApp.runtimeconfig.json
+C:\Users\jubair ahmed junjun\source\repos\ForLoopApp\ForLoopApp\bin\Debug\netcoreapp3.1\ForLoopApp.runtimeconfig.dev.json
+C:\Users\jubair ahmed junjun\source\repos\ForLoopApp\ForLoopApp\bin\Debug\netcoreapp3.1\ForLoopApp.dll
+C:\Users\jubair ahmed junjun\source\repos\ForLoopApp\ForLoopApp\bin\Debug\netcoreapp3.1\ForLoopApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\ForLoopApp\ForLoopApp\obj\Debug\netcoreapp3.1\ForLoopApp.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\source\repos\ForLoopApp\ForLoopApp\obj\Debug\netcoreapp3.1\ForLoopApp.AssemblyInfoInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\ForLoopApp\ForLoopApp\obj\Debug\netcoreapp3.1\ForLoopApp.AssemblyInfo.cs
+C:\Users\jubair ahmed junjun\source\repos\ForLoopApp\ForLoopApp\obj\Debug\netcoreapp3.1\ForLoopApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\ForLoopApp\ForLoopApp\obj\Debug\netcoreapp3.1\ForLoopApp.dll
+C:\Users\jubair ahmed junjun\source\repos\ForLoopApp\ForLoopApp\obj\Debug\netcoreapp3.1\ForLoopApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\ForLoopApp\ForLoopApp\obj\Debug\netcoreapp3.1\ForLoopApp.genruntimeconfig.cache

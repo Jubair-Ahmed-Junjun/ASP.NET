@@ -1,0 +1,6 @@
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\QueueIntoApp\QueueIntoApp\bin\Debug\QueueIntoApp.exe.config
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\QueueIntoApp\QueueIntoApp\bin\Debug\QueueIntoApp.exe
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\QueueIntoApp\QueueIntoApp\bin\Debug\QueueIntoApp.pdb
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\QueueIntoApp\QueueIntoApp\obj\Debug\QueueIntoApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\QueueIntoApp\QueueIntoApp\obj\Debug\QueueIntoApp.exe
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\QueueIntoApp\QueueIntoApp\obj\Debug\QueueIntoApp.pdb

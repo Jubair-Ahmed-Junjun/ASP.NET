@@ -1,0 +1,10 @@
+C:\Users\jubair ahmed junjun\source\repos\SalaryCalWinFormApp\SalaryCalWinFormApp\bin\Debug\SalaryCalWinFormApp.exe.config
+C:\Users\jubair ahmed junjun\source\repos\SalaryCalWinFormApp\SalaryCalWinFormApp\bin\Debug\SalaryCalWinFormApp.exe
+C:\Users\jubair ahmed junjun\source\repos\SalaryCalWinFormApp\SalaryCalWinFormApp\bin\Debug\SalaryCalWinFormApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\SalaryCalWinFormApp\SalaryCalWinFormApp\obj\Debug\SalaryCalWinFormApp.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\source\repos\SalaryCalWinFormApp\SalaryCalWinFormApp\obj\Debug\SalaryCalWinFormApp.Properties.Resources.resources
+C:\Users\jubair ahmed junjun\source\repos\SalaryCalWinFormApp\SalaryCalWinFormApp\obj\Debug\SalaryCalWinFormApp.csproj.GenerateResource.cache
+C:\Users\jubair ahmed junjun\source\repos\SalaryCalWinFormApp\SalaryCalWinFormApp\obj\Debug\SalaryCalWinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\SalaryCalWinFormApp\SalaryCalWinFormApp\obj\Debug\SalaryCalWinFormApp.exe
+C:\Users\jubair ahmed junjun\source\repos\SalaryCalWinFormApp\SalaryCalWinFormApp\obj\Debug\SalaryCalWinFormApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\SalaryCalWinFormApp\SalaryCalWinFormApp\obj\Debug\SalaryCalWinFormApp.Form1.resources

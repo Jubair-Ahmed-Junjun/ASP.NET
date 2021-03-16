@@ -1,0 +1,7 @@
+C:\Users\jubair ahmed junjun\source\repos\OOP\ClassAndObjectApp\ClassAndObjectApp\bin\Debug\ClassAndObjectApp.exe.config
+C:\Users\jubair ahmed junjun\source\repos\OOP\ClassAndObjectApp\ClassAndObjectApp\bin\Debug\ClassAndObjectApp.exe
+C:\Users\jubair ahmed junjun\source\repos\OOP\ClassAndObjectApp\ClassAndObjectApp\bin\Debug\ClassAndObjectApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\OOP\ClassAndObjectApp\ClassAndObjectApp\obj\Debug\ClassAndObjectApp.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\source\repos\OOP\ClassAndObjectApp\ClassAndObjectApp\obj\Debug\ClassAndObjectApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\OOP\ClassAndObjectApp\ClassAndObjectApp\obj\Debug\ClassAndObjectApp.exe
+C:\Users\jubair ahmed junjun\source\repos\OOP\ClassAndObjectApp\ClassAndObjectApp\obj\Debug\ClassAndObjectApp.pdb

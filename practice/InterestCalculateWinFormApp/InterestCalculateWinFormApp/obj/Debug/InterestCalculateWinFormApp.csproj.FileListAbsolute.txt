@@ -1,0 +1,10 @@
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\InterestCalculateWinFormApp\InterestCalculateWinFormApp\bin\Debug\InterestCalculateWinFormApp.exe.config
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\InterestCalculateWinFormApp\InterestCalculateWinFormApp\bin\Debug\InterestCalculateWinFormApp.exe
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\InterestCalculateWinFormApp\InterestCalculateWinFormApp\bin\Debug\InterestCalculateWinFormApp.pdb
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\InterestCalculateWinFormApp\InterestCalculateWinFormApp\obj\Debug\InterestCalculateWinFormApp.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\InterestCalculateWinFormApp\InterestCalculateWinFormApp\obj\Debug\InterestCalculateWinFormApp.Form1.resources
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\InterestCalculateWinFormApp\InterestCalculateWinFormApp\obj\Debug\InterestCalculateWinFormApp.Properties.Resources.resources
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\InterestCalculateWinFormApp\InterestCalculateWinFormApp\obj\Debug\InterestCalculateWinFormApp.csproj.GenerateResource.cache
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\InterestCalculateWinFormApp\InterestCalculateWinFormApp\obj\Debug\InterestCalculateWinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\InterestCalculateWinFormApp\InterestCalculateWinFormApp\obj\Debug\InterestCalculateWinFormApp.exe
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\InterestCalculateWinFormApp\InterestCalculateWinFormApp\obj\Debug\InterestCalculateWinFormApp.pdb

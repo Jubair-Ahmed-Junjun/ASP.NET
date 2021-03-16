@@ -1,0 +1,13 @@
+C:\Users\jubair ahmed junjun\source\repos\ConditionalStatementApp\ConditionalStatementApp\bin\Debug\netcoreapp3.1\ConditionalStatementApp.exe
+C:\Users\jubair ahmed junjun\source\repos\ConditionalStatementApp\ConditionalStatementApp\bin\Debug\netcoreapp3.1\ConditionalStatementApp.deps.json
+C:\Users\jubair ahmed junjun\source\repos\ConditionalStatementApp\ConditionalStatementApp\bin\Debug\netcoreapp3.1\ConditionalStatementApp.runtimeconfig.json
+C:\Users\jubair ahmed junjun\source\repos\ConditionalStatementApp\ConditionalStatementApp\bin\Debug\netcoreapp3.1\ConditionalStatementApp.runtimeconfig.dev.json
+C:\Users\jubair ahmed junjun\source\repos\ConditionalStatementApp\ConditionalStatementApp\bin\Debug\netcoreapp3.1\ConditionalStatementApp.dll
+C:\Users\jubair ahmed junjun\source\repos\ConditionalStatementApp\ConditionalStatementApp\bin\Debug\netcoreapp3.1\ConditionalStatementApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\ConditionalStatementApp\ConditionalStatementApp\obj\Debug\netcoreapp3.1\ConditionalStatementApp.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\source\repos\ConditionalStatementApp\ConditionalStatementApp\obj\Debug\netcoreapp3.1\ConditionalStatementApp.AssemblyInfoInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\ConditionalStatementApp\ConditionalStatementApp\obj\Debug\netcoreapp3.1\ConditionalStatementApp.AssemblyInfo.cs
+C:\Users\jubair ahmed junjun\source\repos\ConditionalStatementApp\ConditionalStatementApp\obj\Debug\netcoreapp3.1\ConditionalStatementApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\ConditionalStatementApp\ConditionalStatementApp\obj\Debug\netcoreapp3.1\ConditionalStatementApp.dll
+C:\Users\jubair ahmed junjun\source\repos\ConditionalStatementApp\ConditionalStatementApp\obj\Debug\netcoreapp3.1\ConditionalStatementApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\ConditionalStatementApp\ConditionalStatementApp\obj\Debug\netcoreapp3.1\ConditionalStatementApp.genruntimeconfig.cache

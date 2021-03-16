@@ -1,0 +1,13 @@
+C:\Users\jubair ahmed junjun\source\repos\WhileAndDoWhileLoopsApp\WhileAndDoWhileLoopsApp\bin\Debug\netcoreapp3.1\WhileAndDoWhileLoopsApp.exe
+C:\Users\jubair ahmed junjun\source\repos\WhileAndDoWhileLoopsApp\WhileAndDoWhileLoopsApp\bin\Debug\netcoreapp3.1\WhileAndDoWhileLoopsApp.deps.json
+C:\Users\jubair ahmed junjun\source\repos\WhileAndDoWhileLoopsApp\WhileAndDoWhileLoopsApp\bin\Debug\netcoreapp3.1\WhileAndDoWhileLoopsApp.runtimeconfig.json
+C:\Users\jubair ahmed junjun\source\repos\WhileAndDoWhileLoopsApp\WhileAndDoWhileLoopsApp\bin\Debug\netcoreapp3.1\WhileAndDoWhileLoopsApp.runtimeconfig.dev.json
+C:\Users\jubair ahmed junjun\source\repos\WhileAndDoWhileLoopsApp\WhileAndDoWhileLoopsApp\bin\Debug\netcoreapp3.1\WhileAndDoWhileLoopsApp.dll
+C:\Users\jubair ahmed junjun\source\repos\WhileAndDoWhileLoopsApp\WhileAndDoWhileLoopsApp\bin\Debug\netcoreapp3.1\WhileAndDoWhileLoopsApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\WhileAndDoWhileLoopsApp\WhileAndDoWhileLoopsApp\obj\Debug\netcoreapp3.1\WhileAndDoWhileLoopsApp.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\source\repos\WhileAndDoWhileLoopsApp\WhileAndDoWhileLoopsApp\obj\Debug\netcoreapp3.1\WhileAndDoWhileLoopsApp.AssemblyInfoInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\WhileAndDoWhileLoopsApp\WhileAndDoWhileLoopsApp\obj\Debug\netcoreapp3.1\WhileAndDoWhileLoopsApp.AssemblyInfo.cs
+C:\Users\jubair ahmed junjun\source\repos\WhileAndDoWhileLoopsApp\WhileAndDoWhileLoopsApp\obj\Debug\netcoreapp3.1\WhileAndDoWhileLoopsApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\WhileAndDoWhileLoopsApp\WhileAndDoWhileLoopsApp\obj\Debug\netcoreapp3.1\WhileAndDoWhileLoopsApp.dll
+C:\Users\jubair ahmed junjun\source\repos\WhileAndDoWhileLoopsApp\WhileAndDoWhileLoopsApp\obj\Debug\netcoreapp3.1\WhileAndDoWhileLoopsApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\WhileAndDoWhileLoopsApp\WhileAndDoWhileLoopsApp\obj\Debug\netcoreapp3.1\WhileAndDoWhileLoopsApp.genruntimeconfig.cache

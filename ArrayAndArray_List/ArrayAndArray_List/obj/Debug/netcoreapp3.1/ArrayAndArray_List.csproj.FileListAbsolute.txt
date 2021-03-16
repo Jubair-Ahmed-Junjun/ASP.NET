@@ -1,0 +1,13 @@
+C:\Users\jubair ahmed junjun\source\repos\ArrayAndArray_List\ArrayAndArray_List\bin\Debug\netcoreapp3.1\ArrayAndArray_List.exe
+C:\Users\jubair ahmed junjun\source\repos\ArrayAndArray_List\ArrayAndArray_List\bin\Debug\netcoreapp3.1\ArrayAndArray_List.deps.json
+C:\Users\jubair ahmed junjun\source\repos\ArrayAndArray_List\ArrayAndArray_List\bin\Debug\netcoreapp3.1\ArrayAndArray_List.runtimeconfig.json
+C:\Users\jubair ahmed junjun\source\repos\ArrayAndArray_List\ArrayAndArray_List\bin\Debug\netcoreapp3.1\ArrayAndArray_List.runtimeconfig.dev.json
+C:\Users\jubair ahmed junjun\source\repos\ArrayAndArray_List\ArrayAndArray_List\bin\Debug\netcoreapp3.1\ArrayAndArray_List.dll
+C:\Users\jubair ahmed junjun\source\repos\ArrayAndArray_List\ArrayAndArray_List\bin\Debug\netcoreapp3.1\ArrayAndArray_List.pdb
+C:\Users\jubair ahmed junjun\source\repos\ArrayAndArray_List\ArrayAndArray_List\obj\Debug\netcoreapp3.1\ArrayAndArray_List.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\source\repos\ArrayAndArray_List\ArrayAndArray_List\obj\Debug\netcoreapp3.1\ArrayAndArray_List.AssemblyInfoInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\ArrayAndArray_List\ArrayAndArray_List\obj\Debug\netcoreapp3.1\ArrayAndArray_List.AssemblyInfo.cs
+C:\Users\jubair ahmed junjun\source\repos\ArrayAndArray_List\ArrayAndArray_List\obj\Debug\netcoreapp3.1\ArrayAndArray_List.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\ArrayAndArray_List\ArrayAndArray_List\obj\Debug\netcoreapp3.1\ArrayAndArray_List.dll
+C:\Users\jubair ahmed junjun\source\repos\ArrayAndArray_List\ArrayAndArray_List\obj\Debug\netcoreapp3.1\ArrayAndArray_List.pdb
+C:\Users\jubair ahmed junjun\source\repos\ArrayAndArray_List\ArrayAndArray_List\obj\Debug\netcoreapp3.1\ArrayAndArray_List.genruntimeconfig.cache

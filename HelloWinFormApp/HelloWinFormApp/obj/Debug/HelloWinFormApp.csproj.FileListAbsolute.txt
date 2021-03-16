@@ -1,0 +1,9 @@
+C:\Users\jubair ahmed junjun\source\repos\HelloWinFormApp\HelloWinFormApp\bin\Debug\HelloWinFormApp.exe.config
+C:\Users\jubair ahmed junjun\source\repos\HelloWinFormApp\HelloWinFormApp\bin\Debug\HelloWinFormApp.exe
+C:\Users\jubair ahmed junjun\source\repos\HelloWinFormApp\HelloWinFormApp\bin\Debug\HelloWinFormApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\HelloWinFormApp\HelloWinFormApp\obj\Debug\HelloWinFormApp.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\source\repos\HelloWinFormApp\HelloWinFormApp\obj\Debug\HelloWinFormApp.Properties.Resources.resources
+C:\Users\jubair ahmed junjun\source\repos\HelloWinFormApp\HelloWinFormApp\obj\Debug\HelloWinFormApp.csproj.GenerateResource.cache
+C:\Users\jubair ahmed junjun\source\repos\HelloWinFormApp\HelloWinFormApp\obj\Debug\HelloWinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\HelloWinFormApp\HelloWinFormApp\obj\Debug\HelloWinFormApp.exe
+C:\Users\jubair ahmed junjun\source\repos\HelloWinFormApp\HelloWinFormApp\obj\Debug\HelloWinFormApp.pdb

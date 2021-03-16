@@ -1,0 +1,13 @@
+G:\Asp DotNet\1stclass\FouthProblemApp\FouthProblemApp\bin\Debug\netcoreapp3.1\FouthProblemApp.exe
+G:\Asp DotNet\1stclass\FouthProblemApp\FouthProblemApp\bin\Debug\netcoreapp3.1\FouthProblemApp.deps.json
+G:\Asp DotNet\1stclass\FouthProblemApp\FouthProblemApp\bin\Debug\netcoreapp3.1\FouthProblemApp.runtimeconfig.json
+G:\Asp DotNet\1stclass\FouthProblemApp\FouthProblemApp\bin\Debug\netcoreapp3.1\FouthProblemApp.runtimeconfig.dev.json
+G:\Asp DotNet\1stclass\FouthProblemApp\FouthProblemApp\bin\Debug\netcoreapp3.1\FouthProblemApp.dll
+G:\Asp DotNet\1stclass\FouthProblemApp\FouthProblemApp\bin\Debug\netcoreapp3.1\FouthProblemApp.pdb
+G:\Asp DotNet\1stclass\FouthProblemApp\FouthProblemApp\obj\Debug\netcoreapp3.1\FouthProblemApp.AssemblyInfoInputs.cache
+G:\Asp DotNet\1stclass\FouthProblemApp\FouthProblemApp\obj\Debug\netcoreapp3.1\FouthProblemApp.AssemblyInfo.cs
+G:\Asp DotNet\1stclass\FouthProblemApp\FouthProblemApp\obj\Debug\netcoreapp3.1\FouthProblemApp.csproj.CoreCompileInputs.cache
+G:\Asp DotNet\1stclass\FouthProblemApp\FouthProblemApp\obj\Debug\netcoreapp3.1\FouthProblemApp.dll
+G:\Asp DotNet\1stclass\FouthProblemApp\FouthProblemApp\obj\Debug\netcoreapp3.1\FouthProblemApp.pdb
+G:\Asp DotNet\1stclass\FouthProblemApp\FouthProblemApp\obj\Debug\netcoreapp3.1\FouthProblemApp.genruntimeconfig.cache
+G:\Asp DotNet\1stclass\FouthProblemApp\FouthProblemApp\obj\Debug\netcoreapp3.1\FouthProblemApp.csprojAssemblyReference.cache

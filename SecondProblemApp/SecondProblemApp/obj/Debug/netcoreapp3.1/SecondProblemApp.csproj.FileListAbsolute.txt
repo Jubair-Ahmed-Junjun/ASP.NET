@@ -1,0 +1,13 @@
+G:\Asp DotNet\1stclass\SecondProblemApp\SecondProblemApp\bin\Debug\netcoreapp3.1\SecondProblemApp.exe
+G:\Asp DotNet\1stclass\SecondProblemApp\SecondProblemApp\bin\Debug\netcoreapp3.1\SecondProblemApp.deps.json
+G:\Asp DotNet\1stclass\SecondProblemApp\SecondProblemApp\bin\Debug\netcoreapp3.1\SecondProblemApp.runtimeconfig.json
+G:\Asp DotNet\1stclass\SecondProblemApp\SecondProblemApp\bin\Debug\netcoreapp3.1\SecondProblemApp.runtimeconfig.dev.json
+G:\Asp DotNet\1stclass\SecondProblemApp\SecondProblemApp\bin\Debug\netcoreapp3.1\SecondProblemApp.dll
+G:\Asp DotNet\1stclass\SecondProblemApp\SecondProblemApp\bin\Debug\netcoreapp3.1\SecondProblemApp.pdb
+G:\Asp DotNet\1stclass\SecondProblemApp\SecondProblemApp\obj\Debug\netcoreapp3.1\SecondProblemApp.csprojAssemblyReference.cache
+G:\Asp DotNet\1stclass\SecondProblemApp\SecondProblemApp\obj\Debug\netcoreapp3.1\SecondProblemApp.AssemblyInfoInputs.cache
+G:\Asp DotNet\1stclass\SecondProblemApp\SecondProblemApp\obj\Debug\netcoreapp3.1\SecondProblemApp.AssemblyInfo.cs
+G:\Asp DotNet\1stclass\SecondProblemApp\SecondProblemApp\obj\Debug\netcoreapp3.1\SecondProblemApp.csproj.CoreCompileInputs.cache
+G:\Asp DotNet\1stclass\SecondProblemApp\SecondProblemApp\obj\Debug\netcoreapp3.1\SecondProblemApp.dll
+G:\Asp DotNet\1stclass\SecondProblemApp\SecondProblemApp\obj\Debug\netcoreapp3.1\SecondProblemApp.pdb
+G:\Asp DotNet\1stclass\SecondProblemApp\SecondProblemApp\obj\Debug\netcoreapp3.1\SecondProblemApp.genruntimeconfig.cache

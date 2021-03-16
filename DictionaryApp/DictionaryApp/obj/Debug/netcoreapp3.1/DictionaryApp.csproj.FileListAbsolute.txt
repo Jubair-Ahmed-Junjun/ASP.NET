@@ -1,0 +1,13 @@
+C:\Users\jubair ahmed junjun\source\repos\DictionaryApp\DictionaryApp\bin\Debug\netcoreapp3.1\DictionaryApp.exe
+C:\Users\jubair ahmed junjun\source\repos\DictionaryApp\DictionaryApp\bin\Debug\netcoreapp3.1\DictionaryApp.deps.json
+C:\Users\jubair ahmed junjun\source\repos\DictionaryApp\DictionaryApp\bin\Debug\netcoreapp3.1\DictionaryApp.runtimeconfig.json
+C:\Users\jubair ahmed junjun\source\repos\DictionaryApp\DictionaryApp\bin\Debug\netcoreapp3.1\DictionaryApp.runtimeconfig.dev.json
+C:\Users\jubair ahmed junjun\source\repos\DictionaryApp\DictionaryApp\bin\Debug\netcoreapp3.1\DictionaryApp.dll
+C:\Users\jubair ahmed junjun\source\repos\DictionaryApp\DictionaryApp\bin\Debug\netcoreapp3.1\DictionaryApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\DictionaryApp\DictionaryApp\obj\Debug\netcoreapp3.1\DictionaryApp.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\source\repos\DictionaryApp\DictionaryApp\obj\Debug\netcoreapp3.1\DictionaryApp.AssemblyInfoInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\DictionaryApp\DictionaryApp\obj\Debug\netcoreapp3.1\DictionaryApp.AssemblyInfo.cs
+C:\Users\jubair ahmed junjun\source\repos\DictionaryApp\DictionaryApp\obj\Debug\netcoreapp3.1\DictionaryApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\DictionaryApp\DictionaryApp\obj\Debug\netcoreapp3.1\DictionaryApp.dll
+C:\Users\jubair ahmed junjun\source\repos\DictionaryApp\DictionaryApp\obj\Debug\netcoreapp3.1\DictionaryApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\DictionaryApp\DictionaryApp\obj\Debug\netcoreapp3.1\DictionaryApp.genruntimeconfig.cache

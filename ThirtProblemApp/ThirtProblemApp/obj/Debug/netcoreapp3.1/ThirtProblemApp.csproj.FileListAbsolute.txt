@@ -1,0 +1,13 @@
+G:\Asp DotNet\1stclass\ThirtProblemApp\ThirtProblemApp\bin\Debug\netcoreapp3.1\ThirtProblemApp.exe
+G:\Asp DotNet\1stclass\ThirtProblemApp\ThirtProblemApp\bin\Debug\netcoreapp3.1\ThirtProblemApp.deps.json
+G:\Asp DotNet\1stclass\ThirtProblemApp\ThirtProblemApp\bin\Debug\netcoreapp3.1\ThirtProblemApp.runtimeconfig.json
+G:\Asp DotNet\1stclass\ThirtProblemApp\ThirtProblemApp\bin\Debug\netcoreapp3.1\ThirtProblemApp.runtimeconfig.dev.json
+G:\Asp DotNet\1stclass\ThirtProblemApp\ThirtProblemApp\bin\Debug\netcoreapp3.1\ThirtProblemApp.dll
+G:\Asp DotNet\1stclass\ThirtProblemApp\ThirtProblemApp\bin\Debug\netcoreapp3.1\ThirtProblemApp.pdb
+G:\Asp DotNet\1stclass\ThirtProblemApp\ThirtProblemApp\obj\Debug\netcoreapp3.1\ThirtProblemApp.csprojAssemblyReference.cache
+G:\Asp DotNet\1stclass\ThirtProblemApp\ThirtProblemApp\obj\Debug\netcoreapp3.1\ThirtProblemApp.AssemblyInfoInputs.cache
+G:\Asp DotNet\1stclass\ThirtProblemApp\ThirtProblemApp\obj\Debug\netcoreapp3.1\ThirtProblemApp.AssemblyInfo.cs
+G:\Asp DotNet\1stclass\ThirtProblemApp\ThirtProblemApp\obj\Debug\netcoreapp3.1\ThirtProblemApp.csproj.CoreCompileInputs.cache
+G:\Asp DotNet\1stclass\ThirtProblemApp\ThirtProblemApp\obj\Debug\netcoreapp3.1\ThirtProblemApp.dll
+G:\Asp DotNet\1stclass\ThirtProblemApp\ThirtProblemApp\obj\Debug\netcoreapp3.1\ThirtProblemApp.pdb
+G:\Asp DotNet\1stclass\ThirtProblemApp\ThirtProblemApp\obj\Debug\netcoreapp3.1\ThirtProblemApp.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\BinarySearchApp\BinarySearchApp\obj\Debug\BinarySearchApp.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\BinarySearchApp\BinarySearchApp\obj\Debug\BinarySearchApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\BinarySearchApp\BinarySearchApp\bin\Debug\BinarySearchApp.exe.config
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\BinarySearchApp\BinarySearchApp\bin\Debug\BinarySearchApp.exe
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\BinarySearchApp\BinarySearchApp\bin\Debug\BinarySearchApp.pdb
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\BinarySearchApp\BinarySearchApp\obj\Debug\BinarySearchApp.exe
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\BinarySearchApp\BinarySearchApp\obj\Debug\BinarySearchApp.pdb

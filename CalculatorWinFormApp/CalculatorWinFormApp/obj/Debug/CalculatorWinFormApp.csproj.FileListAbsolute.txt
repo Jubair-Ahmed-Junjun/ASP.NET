@@ -1,0 +1,10 @@
+C:\Users\jubair ahmed junjun\source\repos\CalculatorWinFormApp\CalculatorWinFormApp\bin\Debug\CalculatorWinFormApp.exe.config
+C:\Users\jubair ahmed junjun\source\repos\CalculatorWinFormApp\CalculatorWinFormApp\bin\Debug\CalculatorWinFormApp.exe
+C:\Users\jubair ahmed junjun\source\repos\CalculatorWinFormApp\CalculatorWinFormApp\bin\Debug\CalculatorWinFormApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\CalculatorWinFormApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\source\repos\CalculatorWinFormApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.Properties.Resources.resources
+C:\Users\jubair ahmed junjun\source\repos\CalculatorWinFormApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.csproj.GenerateResource.cache
+C:\Users\jubair ahmed junjun\source\repos\CalculatorWinFormApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\CalculatorWinFormApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.exe
+C:\Users\jubair ahmed junjun\source\repos\CalculatorWinFormApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\CalculatorWinFormApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.Form1.resources

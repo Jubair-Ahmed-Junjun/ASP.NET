@@ -1,0 +1,10 @@
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\HelloWorldWinFormApp\HelloWorldWinFormApp\bin\Debug\HelloWorldWinFormApp.exe.config
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\HelloWorldWinFormApp\HelloWorldWinFormApp\bin\Debug\HelloWorldWinFormApp.exe
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\HelloWorldWinFormApp\HelloWorldWinFormApp\bin\Debug\HelloWorldWinFormApp.pdb
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\HelloWorldWinFormApp\HelloWorldWinFormApp\obj\Debug\HelloWorldWinFormApp.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\HelloWorldWinFormApp\HelloWorldWinFormApp\obj\Debug\HelloWorldWinFormApp.Properties.Resources.resources
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\HelloWorldWinFormApp\HelloWorldWinFormApp\obj\Debug\HelloWorldWinFormApp.csproj.GenerateResource.cache
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\HelloWorldWinFormApp\HelloWorldWinFormApp\obj\Debug\HelloWorldWinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\HelloWorldWinFormApp\HelloWorldWinFormApp\obj\Debug\HelloWorldWinFormApp.exe
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\HelloWorldWinFormApp\HelloWorldWinFormApp\obj\Debug\HelloWorldWinFormApp.pdb
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\HelloWorldWinFormApp\HelloWorldWinFormApp\obj\Debug\HelloWorldWinFormApp.Form1.resources

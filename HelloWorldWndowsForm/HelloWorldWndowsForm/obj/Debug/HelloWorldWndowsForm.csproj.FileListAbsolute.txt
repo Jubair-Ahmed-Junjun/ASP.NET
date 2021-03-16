@@ -1,0 +1,10 @@
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldWndowsForm\HelloWorldWndowsForm\bin\Debug\HelloWorldWndowsForm.exe.config
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldWndowsForm\HelloWorldWndowsForm\bin\Debug\HelloWorldWndowsForm.exe
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldWndowsForm\HelloWorldWndowsForm\bin\Debug\HelloWorldWndowsForm.pdb
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldWndowsForm\HelloWorldWndowsForm\obj\Debug\HelloWorldWndowsForm.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldWndowsForm\HelloWorldWndowsForm\obj\Debug\HelloWorldWndowsForm.Form1.resources
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldWndowsForm\HelloWorldWndowsForm\obj\Debug\HelloWorldWndowsForm.Properties.Resources.resources
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldWndowsForm\HelloWorldWndowsForm\obj\Debug\HelloWorldWndowsForm.csproj.GenerateResource.cache
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldWndowsForm\HelloWorldWndowsForm\obj\Debug\HelloWorldWndowsForm.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldWndowsForm\HelloWorldWndowsForm\obj\Debug\HelloWorldWndowsForm.exe
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldWndowsForm\HelloWorldWndowsForm\obj\Debug\HelloWorldWndowsForm.pdb

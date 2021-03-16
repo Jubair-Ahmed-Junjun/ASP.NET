@@ -1,0 +1,13 @@
+C:\Users\jubair ahmed junjun\source\repos\ListApp\ListApp\obj\Debug\netcoreapp3.1\ListApp.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\source\repos\ListApp\ListApp\obj\Debug\netcoreapp3.1\ListApp.AssemblyInfoInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\ListApp\ListApp\obj\Debug\netcoreapp3.1\ListApp.AssemblyInfo.cs
+C:\Users\jubair ahmed junjun\source\repos\ListApp\ListApp\obj\Debug\netcoreapp3.1\ListApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\ListApp\ListApp\bin\Debug\netcoreapp3.1\ListApp.exe
+C:\Users\jubair ahmed junjun\source\repos\ListApp\ListApp\bin\Debug\netcoreapp3.1\ListApp.deps.json
+C:\Users\jubair ahmed junjun\source\repos\ListApp\ListApp\bin\Debug\netcoreapp3.1\ListApp.runtimeconfig.json
+C:\Users\jubair ahmed junjun\source\repos\ListApp\ListApp\bin\Debug\netcoreapp3.1\ListApp.runtimeconfig.dev.json
+C:\Users\jubair ahmed junjun\source\repos\ListApp\ListApp\bin\Debug\netcoreapp3.1\ListApp.dll
+C:\Users\jubair ahmed junjun\source\repos\ListApp\ListApp\bin\Debug\netcoreapp3.1\ListApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\ListApp\ListApp\obj\Debug\netcoreapp3.1\ListApp.dll
+C:\Users\jubair ahmed junjun\source\repos\ListApp\ListApp\obj\Debug\netcoreapp3.1\ListApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\ListApp\ListApp\obj\Debug\netcoreapp3.1\ListApp.genruntimeconfig.cache

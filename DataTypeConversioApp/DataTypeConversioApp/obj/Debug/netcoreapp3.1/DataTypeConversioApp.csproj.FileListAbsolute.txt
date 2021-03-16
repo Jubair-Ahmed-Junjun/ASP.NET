@@ -1,0 +1,13 @@
+C:\Users\jubair ahmed junjun\source\repos\DataTypeConversioApp\DataTypeConversioApp\bin\Debug\netcoreapp3.1\DataTypeConversioApp.exe
+C:\Users\jubair ahmed junjun\source\repos\DataTypeConversioApp\DataTypeConversioApp\bin\Debug\netcoreapp3.1\DataTypeConversioApp.deps.json
+C:\Users\jubair ahmed junjun\source\repos\DataTypeConversioApp\DataTypeConversioApp\bin\Debug\netcoreapp3.1\DataTypeConversioApp.runtimeconfig.json
+C:\Users\jubair ahmed junjun\source\repos\DataTypeConversioApp\DataTypeConversioApp\bin\Debug\netcoreapp3.1\DataTypeConversioApp.runtimeconfig.dev.json
+C:\Users\jubair ahmed junjun\source\repos\DataTypeConversioApp\DataTypeConversioApp\bin\Debug\netcoreapp3.1\DataTypeConversioApp.dll
+C:\Users\jubair ahmed junjun\source\repos\DataTypeConversioApp\DataTypeConversioApp\bin\Debug\netcoreapp3.1\DataTypeConversioApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\DataTypeConversioApp\DataTypeConversioApp\obj\Debug\netcoreapp3.1\DataTypeConversioApp.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\source\repos\DataTypeConversioApp\DataTypeConversioApp\obj\Debug\netcoreapp3.1\DataTypeConversioApp.AssemblyInfoInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\DataTypeConversioApp\DataTypeConversioApp\obj\Debug\netcoreapp3.1\DataTypeConversioApp.AssemblyInfo.cs
+C:\Users\jubair ahmed junjun\source\repos\DataTypeConversioApp\DataTypeConversioApp\obj\Debug\netcoreapp3.1\DataTypeConversioApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\DataTypeConversioApp\DataTypeConversioApp\obj\Debug\netcoreapp3.1\DataTypeConversioApp.dll
+C:\Users\jubair ahmed junjun\source\repos\DataTypeConversioApp\DataTypeConversioApp\obj\Debug\netcoreapp3.1\DataTypeConversioApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\DataTypeConversioApp\DataTypeConversioApp\obj\Debug\netcoreapp3.1\DataTypeConversioApp.genruntimeconfig.cache

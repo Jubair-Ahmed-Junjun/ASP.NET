@@ -1,0 +1,13 @@
+G:\Asp DotNet\1stclass\LoopsApp\LoopsApp\bin\Debug\netcoreapp3.1\LoopsApp.exe
+G:\Asp DotNet\1stclass\LoopsApp\LoopsApp\bin\Debug\netcoreapp3.1\LoopsApp.deps.json
+G:\Asp DotNet\1stclass\LoopsApp\LoopsApp\bin\Debug\netcoreapp3.1\LoopsApp.runtimeconfig.json
+G:\Asp DotNet\1stclass\LoopsApp\LoopsApp\bin\Debug\netcoreapp3.1\LoopsApp.runtimeconfig.dev.json
+G:\Asp DotNet\1stclass\LoopsApp\LoopsApp\bin\Debug\netcoreapp3.1\LoopsApp.dll
+G:\Asp DotNet\1stclass\LoopsApp\LoopsApp\bin\Debug\netcoreapp3.1\LoopsApp.pdb
+G:\Asp DotNet\1stclass\LoopsApp\LoopsApp\obj\Debug\netcoreapp3.1\LoopsApp.csprojAssemblyReference.cache
+G:\Asp DotNet\1stclass\LoopsApp\LoopsApp\obj\Debug\netcoreapp3.1\LoopsApp.AssemblyInfoInputs.cache
+G:\Asp DotNet\1stclass\LoopsApp\LoopsApp\obj\Debug\netcoreapp3.1\LoopsApp.AssemblyInfo.cs
+G:\Asp DotNet\1stclass\LoopsApp\LoopsApp\obj\Debug\netcoreapp3.1\LoopsApp.csproj.CoreCompileInputs.cache
+G:\Asp DotNet\1stclass\LoopsApp\LoopsApp\obj\Debug\netcoreapp3.1\LoopsApp.dll
+G:\Asp DotNet\1stclass\LoopsApp\LoopsApp\obj\Debug\netcoreapp3.1\LoopsApp.pdb
+G:\Asp DotNet\1stclass\LoopsApp\LoopsApp\obj\Debug\netcoreapp3.1\LoopsApp.genruntimeconfig.cache

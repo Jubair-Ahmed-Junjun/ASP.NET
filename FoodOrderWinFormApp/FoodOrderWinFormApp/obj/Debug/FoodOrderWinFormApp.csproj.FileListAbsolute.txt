@@ -1,0 +1,10 @@
+C:\Users\jubair ahmed junjun\source\repos\FoodOrderWinFormApp\FoodOrderWinFormApp\bin\Debug\FoodOrderWinFormApp.exe.config
+C:\Users\jubair ahmed junjun\source\repos\FoodOrderWinFormApp\FoodOrderWinFormApp\bin\Debug\FoodOrderWinFormApp.exe
+C:\Users\jubair ahmed junjun\source\repos\FoodOrderWinFormApp\FoodOrderWinFormApp\bin\Debug\FoodOrderWinFormApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\FoodOrderWinFormApp\FoodOrderWinFormApp\obj\Debug\FoodOrderWinFormApp.Form1.resources
+C:\Users\jubair ahmed junjun\source\repos\FoodOrderWinFormApp\FoodOrderWinFormApp\obj\Debug\FoodOrderWinFormApp.Properties.Resources.resources
+C:\Users\jubair ahmed junjun\source\repos\FoodOrderWinFormApp\FoodOrderWinFormApp\obj\Debug\FoodOrderWinFormApp.csproj.GenerateResource.cache
+C:\Users\jubair ahmed junjun\source\repos\FoodOrderWinFormApp\FoodOrderWinFormApp\obj\Debug\FoodOrderWinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\FoodOrderWinFormApp\FoodOrderWinFormApp\obj\Debug\FoodOrderWinFormApp.exe
+C:\Users\jubair ahmed junjun\source\repos\FoodOrderWinFormApp\FoodOrderWinFormApp\obj\Debug\FoodOrderWinFormApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\FoodOrderWinFormApp\FoodOrderWinFormApp\obj\Debug\FoodOrderWinFormApp.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\StackIntroApp\StackIntroApp\bin\Debug\StackIntroApp.exe.config
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\StackIntroApp\StackIntroApp\bin\Debug\StackIntroApp.exe
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\StackIntroApp\StackIntroApp\bin\Debug\StackIntroApp.pdb
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\StackIntroApp\StackIntroApp\obj\Debug\StackIntroApp.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\StackIntroApp\StackIntroApp\obj\Debug\StackIntroApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\StackIntroApp\StackIntroApp\obj\Debug\StackIntroApp.exe
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\StackIntroApp\StackIntroApp\obj\Debug\StackIntroApp.pdb

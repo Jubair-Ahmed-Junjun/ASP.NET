@@ -1,0 +1,13 @@
+G:\Asp DotNet\1stclass\ConditionalApp\ConditionalApp\bin\Debug\netcoreapp3.1\ConditionalApp.exe
+G:\Asp DotNet\1stclass\ConditionalApp\ConditionalApp\bin\Debug\netcoreapp3.1\ConditionalApp.deps.json
+G:\Asp DotNet\1stclass\ConditionalApp\ConditionalApp\bin\Debug\netcoreapp3.1\ConditionalApp.runtimeconfig.json
+G:\Asp DotNet\1stclass\ConditionalApp\ConditionalApp\bin\Debug\netcoreapp3.1\ConditionalApp.runtimeconfig.dev.json
+G:\Asp DotNet\1stclass\ConditionalApp\ConditionalApp\bin\Debug\netcoreapp3.1\ConditionalApp.dll
+G:\Asp DotNet\1stclass\ConditionalApp\ConditionalApp\bin\Debug\netcoreapp3.1\ConditionalApp.pdb
+G:\Asp DotNet\1stclass\ConditionalApp\ConditionalApp\obj\Debug\netcoreapp3.1\ConditionalApp.csprojAssemblyReference.cache
+G:\Asp DotNet\1stclass\ConditionalApp\ConditionalApp\obj\Debug\netcoreapp3.1\ConditionalApp.AssemblyInfoInputs.cache
+G:\Asp DotNet\1stclass\ConditionalApp\ConditionalApp\obj\Debug\netcoreapp3.1\ConditionalApp.AssemblyInfo.cs
+G:\Asp DotNet\1stclass\ConditionalApp\ConditionalApp\obj\Debug\netcoreapp3.1\ConditionalApp.csproj.CoreCompileInputs.cache
+G:\Asp DotNet\1stclass\ConditionalApp\ConditionalApp\obj\Debug\netcoreapp3.1\ConditionalApp.dll
+G:\Asp DotNet\1stclass\ConditionalApp\ConditionalApp\obj\Debug\netcoreapp3.1\ConditionalApp.pdb
+G:\Asp DotNet\1stclass\ConditionalApp\ConditionalApp\obj\Debug\netcoreapp3.1\ConditionalApp.genruntimeconfig.cache

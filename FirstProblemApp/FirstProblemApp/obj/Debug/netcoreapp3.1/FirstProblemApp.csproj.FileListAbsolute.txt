@@ -1,0 +1,13 @@
+G:\Asp DotNet\1stclass\FirstProblemApp\FirstProblemApp\bin\Debug\netcoreapp3.1\FirstProblemApp.exe
+G:\Asp DotNet\1stclass\FirstProblemApp\FirstProblemApp\bin\Debug\netcoreapp3.1\FirstProblemApp.deps.json
+G:\Asp DotNet\1stclass\FirstProblemApp\FirstProblemApp\bin\Debug\netcoreapp3.1\FirstProblemApp.runtimeconfig.json
+G:\Asp DotNet\1stclass\FirstProblemApp\FirstProblemApp\bin\Debug\netcoreapp3.1\FirstProblemApp.runtimeconfig.dev.json
+G:\Asp DotNet\1stclass\FirstProblemApp\FirstProblemApp\bin\Debug\netcoreapp3.1\FirstProblemApp.dll
+G:\Asp DotNet\1stclass\FirstProblemApp\FirstProblemApp\bin\Debug\netcoreapp3.1\FirstProblemApp.pdb
+G:\Asp DotNet\1stclass\FirstProblemApp\FirstProblemApp\obj\Debug\netcoreapp3.1\FirstProblemApp.csprojAssemblyReference.cache
+G:\Asp DotNet\1stclass\FirstProblemApp\FirstProblemApp\obj\Debug\netcoreapp3.1\FirstProblemApp.AssemblyInfoInputs.cache
+G:\Asp DotNet\1stclass\FirstProblemApp\FirstProblemApp\obj\Debug\netcoreapp3.1\FirstProblemApp.AssemblyInfo.cs
+G:\Asp DotNet\1stclass\FirstProblemApp\FirstProblemApp\obj\Debug\netcoreapp3.1\FirstProblemApp.csproj.CoreCompileInputs.cache
+G:\Asp DotNet\1stclass\FirstProblemApp\FirstProblemApp\obj\Debug\netcoreapp3.1\FirstProblemApp.dll
+G:\Asp DotNet\1stclass\FirstProblemApp\FirstProblemApp\obj\Debug\netcoreapp3.1\FirstProblemApp.pdb
+G:\Asp DotNet\1stclass\FirstProblemApp\FirstProblemApp\obj\Debug\netcoreapp3.1\FirstProblemApp.genruntimeconfig.cache

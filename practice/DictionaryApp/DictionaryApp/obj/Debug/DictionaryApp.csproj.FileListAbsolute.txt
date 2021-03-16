@@ -1,0 +1,7 @@
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.exe.config
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.exe
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.pdb
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.exe
+C:\Users\jubair ahmed junjun\Desktop\ASP-DotNet\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.pdb
